@@ -24,7 +24,7 @@
 💻<strong>Focus:</strong> Mobile and Full-Stack Development
   </p>
   
-## 🛠️ Technologies & Tools
+<img src="./titles/technologies.svg" alt="Technologies & Tools" />
 
 ### 💻 Programming Languages
 
@@ -50,7 +50,8 @@
 
 ---
 
-<h2>🚀 Feature Projects</h2>
+<img src="./titles/projects.svg" alt="Featured Projects" />
+
 <table>
   <tr>
     <td widht="100%" align="left">
@@ -69,7 +70,8 @@
 
 ---
 
-## 📊 GitHub Statistics
+<img src="./titles/stats.svg" alt="GitHub Stats" />
+
 
 <p align="center">
   <img src="https://gitHub-readme-stats.vercel.app/api?username=ASbrit0&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="165"/>
@@ -78,7 +80,7 @@
 
 ---
 
-## 📚 Currently Learning
+<img src="./titles/learning.svg" alt="Currently Learning" />
 
 - ✡️ Advance React Native Development
 - 🔷 TypeScript and Application Architecture
@@ -88,7 +90,7 @@
 
 
 
-## 📫 Connect With Me
+<img src="./titles/contact.svg" alt="Contact" />
 <p align="left">
   <a href="https://gitHub.com/Asbrit0">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the=badget&logo=github&logoColor=white"/>
