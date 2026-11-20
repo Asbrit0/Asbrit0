@@ -1,12 +1,4 @@
-<svg xmls "http://www.w3.org/2000/svg" widht="340" height="45">
-  <text x="0" y="32" fill="#38B6FF" font-family="Arial, sans-serif" font-size="28">&#x1F4BB;</text>
 <svg xmlns="http://www.w3.org/2000/svg" width="300" height="45">
-  
-  <text x="0" y="32"
-        fill="#38B6FF"
-        font-family="Arial, sans-serif"
-        font-size="28"
-        font-weight="bold">
-    About Me
-  </text>
+  <text x="0" y="32" font-size="26">👨‍💻</text>
+  <text x="42" y="32" fill="#38B6FF" font-family="Arial" font-size="26" font-weight="bold">About Me</text>
 </svg>
