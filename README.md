@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./asbrit0-banner.gif" widht=100%" />
+  <img src="./banner.gif" widht=100%" />
 </p>
 
 <h1 align ="center">Hi, I'm Allan! 👋 </h1>
