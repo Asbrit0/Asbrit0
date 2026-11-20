@@ -106,14 +106,19 @@
 
 
 <img src="./titles/contact.svg" alt="Contact" />
+
 <p align="left">
-  <a href="https://gitHub.com/Asbrit0">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the=badget&logo=github&logoColor=white"/>
+  <a href="https://github.com/Asbrit0">
+    <img src="https://cdn.simpleicons.org/github/A9D6F5" width="35" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/feed?/">
-   <img src="https://img.shields.io/badge/LinkedIn-172638?style-for-the=badget&logo=linkedin&logoColor=B7D5EF"/>
-  </a>
+  &nbsp;&nbsp;
+  
+<a href="https://www.linkedin.com/in/allan-silva-brito-1642a2219/">
+  <img src="https://custom-icon-badges.demolab.com/badge/-0A66C2?logo=linkedin-white&logoColor=white" width="35" height="35" alt="LinkedIn"/>
+</a>
+
 </p>
+
 
 ---
 <p align="center">
