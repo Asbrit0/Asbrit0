@@ -7,7 +7,7 @@
 <h3 align="center"> <span>Mobile & Full-Stack Developer in Training</span></h3>
 <p align="center"> Bulding mobile applications and learning to develop complete digital soluctions</p>
 
-<h2> 👨‍💻 About Me </h2>
+<img src="./title/about-me.svg" alt="About Me" />
 
 <h3>Tecnhnology, learning and problem-solving.</h3>
   <p>
