@@ -50,22 +50,37 @@
 
 ---
 
-<img src="./titles/projects.svg" alt="Featured Projects" />
+
 
 <table>
   <tr>
-    <td widht="100%" align="left">
-      <h3> 🦟 AVLIS Endemias </h3>
-      <p>A mobile application designed to support and manage field activities of public headlth agents.</p>
-      <p>
+   <td width="100%" align="left">
+
+   <h3>🦟 AVLIS Endemias</h3>
+
+  <p>
+        A mobile application designed to support public health agents
+        in recording, monitoring and managing field activities
+        related to endemic disease control.
+      </p>
+
+  <p>
+        <strong>Core features:</strong><br/>
+        • Property registration and inspection<br/>
+        • Field activity management<br/>
+        • Offline-first data collection
+  </p>
+
+  <p>
         <img src="https://img.shields.io/badge/React_Native-172638?style=flat&logo=react&logoColor=A9D6F5"/>
         <img src="https://img.shields.io/badge/TypeScript-172638?style=flat&logo=typescript&logoColor=A9D6F5"/>
         <img src="https://img.shields.io/badge/SQLite-172638?style=flat&logo=sqlite&logoColor=A9D6F5"/>
       </p>
-      
-   <p>🔒 Private repository - Project under development.</p>
-    </td>
-  </tr>
+
+  <p>🔒 Private repository · Project under development.</p>
+
+   </td>
+</tr>
 </table>
 
 ---
